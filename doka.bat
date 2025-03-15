@@ -1,6 +1,7 @@
 @echo off
 setlocal
 
+hugo
 
 set "commit_message=%~1"
 

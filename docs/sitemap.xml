@@ -2,21 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2025-03-15T18:28:28+09:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/sosaku/</loc>
-    <lastmod>2025-03-15T18:28:28+09:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2025-03-15T18:28:28+09:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/part1/</loc>
-    <lastmod>2025-03-15T18:28:28+09:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://c.deryck2000.jp.eu.org/</loc>
     <lastmod>2025-03-15T18:29:24+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://c.deryck2000.jp.eu.org/categories/</loc>
+  </url><url>
+    <loc>https://c.deryck2000.jp.eu.org/tags/</loc>
   </url>
 </urlset>
