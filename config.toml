@@ -1,38 +1,36 @@
-baseURL = 'https://deryck2000.jp.eu.org/'
+baseURL = 'https://c.deryck2000.jp.eu.org/'
 languageCode = 'ja-ja'
 defaultContentLanguage = 'ja'
 title = 'デデオチャンのサイト'
-theme = 'github-style'
+theme = 'terminal'
 publishDir = "docs"
 
 [params]
   author = "deryck2000"
-  description = """デデオチャンです！
-  あんかけラーメンが好き"""
+  description = """デデオチャンの創作置き場"""
   github = "Deryck2000"
-  url = "https://deryck2000.jp.eu.org/"
+  url = "https://c.deryck2000.jp.eu.org/"
   rss = true
   lastmod = true
   location = "Japan"
     favicon = "/favicon.ico"
   avatar = "/dedeo_icon.gif"
   headerIcon = "/favicon.ico"
+  showMenuItems = 2
+  fullWidthTheme = false
+  centerTheme = false
+      menuMore = "Show more"
+    readMore = "Read more"
+    readOtherPosts = "Read other posts"
 
-[[menu.main]]
-name = "test"
-url = "/test/"
-weight = 1
-
-[[menu.main]]
-name = "test"
-url = "/test/"
-weight = 2
-
-
-  [[params.links]]
-    title = "Link"
-    href = "https://deryck2000.jp.eu.org/"
-
+[taxonomies]
+  tag = "tags"
+  category = "categories"
+    [menu]
+      [[menu.main]]
+        identifier = "創作漫画"
+        name = "創作漫画"
+        url = "/tags/sosaku/"
 [frontmatter]
   lastmod = ["lastmod", ":fileModTime", ":default"]
 

@@ -1,2 +1,2 @@
 @echo off
-hugo server -t cyberscape -D -w
+hugo server -t terminal -D -w
