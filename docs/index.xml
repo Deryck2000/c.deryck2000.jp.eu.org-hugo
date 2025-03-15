@@ -7,5 +7,19 @@
     <generator>Hugo</generator>
     <language>ja-ja</language>
     <atom:link href="https://c.deryck2000.jp.eu.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://c.deryck2000.jp.eu.org/about/</link>
+      <pubDate>Sat, 15 Mar 2025 17:42:46 +0900</pubDate>
+      <guid>https://c.deryck2000.jp.eu.org/about/</guid>
+      <description>&lt;h2 id=&#34;about&#34;&gt;About&lt;/h2&gt;</description>
+    </item>
+    <item>
+      <title>創作漫画 Part1</title>
+      <link>https://c.deryck2000.jp.eu.org/posts/comic1/</link>
+      <pubDate>Fri, 14 Mar 2025 17:42:46 +0900</pubDate>
+      <guid>https://c.deryck2000.jp.eu.org/posts/comic1/</guid>
+      <description>&lt;p&gt;創作漫画 Part1&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>

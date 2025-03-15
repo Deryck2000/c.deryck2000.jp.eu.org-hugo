@@ -22,7 +22,8 @@ publishDir = "docs"
       menuMore = "Show more"
     readMore = "Read more"
     readOtherPosts = "Read other posts"
-
+contentTypeName = "/content/posts"
+timeZone = "Asia/Tokyo"
 [taxonomies]
   tag = "tags"
   category = "categories"
